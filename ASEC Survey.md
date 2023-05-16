@@ -1,10 +1,12 @@
-Heading 1 'On a scale of 1 to 5, how natural and human-like did you find the voice to sound?'
-Heading 2 
-1. 1
-2. 2
-3. 3
-4. 4
-5. 5
+On a scale of 1 to 5, how natural and human-like did you find the voice to sound?
+
+请您对以下内容进行评分（1-5分）：
+* 1
+* 2
+* 3
+* 4
+* 5
+
 Heading 1 'Was the voice easy to understand? (Yes/No)'
 Heading 2
 1. YES
