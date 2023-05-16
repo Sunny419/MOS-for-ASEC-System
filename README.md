@@ -1,12 +1,16 @@
 # MOS-for-ASEC-System
 
-**The Processed Voice Data is Undergoing**
+**1. The Processed Voice Data is Undergoing**
 
-**The orignal audio please click Source.wav**
+**2. The orignal audio please click Source.wav**
 
-**The ASEC audio please click result.wav**
+**3. The ASEC audio please click result.wav**
 
-**MOS Survey Link：https://www.surveymonkey.com/r/KZJV2K7**
+**4. MOS Survey Link：https://www.surveymonkey.com/r/KZJV2K7**
+
+**5. ONLINE SURVEY INFORMATION SHEET** 
+
+**End-to-End Automatic Speech Error Correction Voice Cloning and Correction**  
 
 **WHO IS CONDUCTING THIS RESEARCH?** 
 
