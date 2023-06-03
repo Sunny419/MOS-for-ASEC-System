@@ -53,6 +53,7 @@ It is anticipated that the results of this research project will be published an
 
 
 **WHAT IF I HAVE ANY QUERIES OR CONCERNS?**
+
 If you have any queries or concerns about the research that you think I, Jiaoyang Ma or my supervisor can help you with, please feel free to contact me Jiaoyang Ma on Jiaoyang.ma@student.uts.edu.au.  
 
 If you would like to talk to someone who is not connected with the research, or if you have any concerns or complaints about any aspect of the conduct of this research that you wish to raise independently of the research team, please contact the Ethics Secretariat on 02 9514 2478 email or Research.ethics@uts.edu.au and quote the UTS HREC reference number.  Any matter raised will be treated confidentially, investigated and you will be informed of the outcome.  
